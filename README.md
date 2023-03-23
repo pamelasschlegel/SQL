@@ -1,4 +1,4 @@
-# DATA CLEANSING & ANALYSIS USING SQL
+# EXPLORATORY DATA ANALYSIS USING SQL
 ![image](https://user-images.githubusercontent.com/104881089/227339734-3a23d917-8668-412f-bf5e-55bfc9635ed6.png)
 
 #### This project was part of University of Wisconsin - Madison Data Science & Analytics Bootcamp.
